@@ -1,0 +1,15 @@
+{
+  "name": "node_ntripcaster",
+  "version": "1.0.0",
+  "description": "A simple ntripcaster service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "ntripcaster"
+  ],
+  "author": "xhdong",
+  "license": "ISC"
+}
